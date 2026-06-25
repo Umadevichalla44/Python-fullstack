@@ -1,0 +1,17 @@
+/* universal */
+* {
+  color: red;
+}
+/* element */
+h1,
+p {
+  color: brown;
+  text-decoration: underline;
+}
+/* id */
+h1#s {
+  color: green;
+}
+h1#e {
+  color: bule;
+}
